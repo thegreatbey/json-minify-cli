@@ -1,6 +1,6 @@
 {
   "name": "json-minify-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple CLI to minify or prettify JSON files",
   "bin": {
     "json-minify-cli": "./bin/index.js"
