@@ -1,0 +1,31 @@
+{
+  "name": "json-minify-cli",
+  "version": "0.0.1",
+  "description": "A simple CLI to minify or prettify JSON files",
+  "bin": {
+    "json-minify-cli": "./bin/index.js"
+  },
+  "scripts": {
+    "start": "node ./bin/index.js",
+    "test": "vitest"
+  },
+  "keywords": [
+    "json",
+    "json-minify",
+    "json-pretty",
+    "pretty-print",
+    "minify",
+    "cli",
+    "command-line",
+    "formatter",
+    "json-formatter",
+    "node-cli",
+    "pretty"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "vitest": "^1.6.1"
+  }
+}
