@@ -2,7 +2,8 @@
 
 ![npm version](https://img.shields.io/npm/v/json-minify-cli)
 ![downloads](https://img.shields.io/npm/dw/json-minify-cli)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![CI/CD](https://github.com/thegreatbey/json-minify-cli/actions/workflows/publish.yml/badge.svg)](https://github.com/thegreatbey/json-minify-cli/actions)
 [![Code Style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://standardjs.com/)
 [![npm install](https://img.shields.io/badge/npm%20install--g%20json-minify-cli-blue.svg)](https://www.npmjs.com/package/json-minify-cli)
 
