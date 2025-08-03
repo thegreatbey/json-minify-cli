@@ -22,7 +22,7 @@
     "node-cli",
     "pretty"
   ],
-  "author": "Your Name",
+  "author": "cavani21",
   "license": "MIT",
   "type": "module",
   "devDependencies": {
