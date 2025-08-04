@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![CI/CD](https://github.com/thegreatbey/json-minify-cli/actions/workflows/publish.yml/badge.svg)](https://github.com/thegreatbey/json-minify-cli/actions)
 [![Code Style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://standardjs.com/)
-[![npm install](https://img.shields.io/badge/npm%20install--g%20json-minify-cli-blue.svg)](https://www.npmjs.com/package/json-minify-cli)
+[![npm install](https://img.shields.io/badge/npm%20install--g%20json--minify--cli-blue)](https://www.npmjs.com/package/json-minify-cli)
 
 A lightweight CLI tool to \*\*minify\*\* and \*\*prettify\*\* JSON files with optional key sorting.
 
